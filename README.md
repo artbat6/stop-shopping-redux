@@ -1,6 +1,7 @@
 # Stop-Shopping-Redux  
 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+## License
+MIT
 
 ## Description
 
@@ -21,7 +22,7 @@ This application allows to shop for various items, add these products to the sho
 
 ## Deployed Application 
 
-[Shop Shop](https://stop-shopping-redux.herokuapp.com/)<br />
+[Stop Shopping Redux](https://stop-shopping-redux.herokuapp.com/)<br />
 
 For a working example of this app you should clone the repository, run **npm install**, and then **npm start**.
 
