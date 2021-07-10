@@ -8,17 +8,22 @@ Shop Shop is an e-commerce application that allows users to shop for various ite
 
 ## Table of Contents
 
+* [Usage](#usage)
 * [Deployed Application](#deployed-application)
 * [User Story](#user-story)
-* [Usage](#usage)
 * [License](#license)
 * [Available-Scripts](#available-scripts)
 * [Contributing](#contributing)
 
+## Usage
+
+This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
 
 ## Deployed Application 
 
-[Shop Shop]()<br />
+[Shop Shop](https://stop-shopping-redux.herokuapp.com/)<br />
+
+For a working example of this app you should clone the repository, run **npm install**, and then **npm start**.
 
 ## User Story
 
@@ -36,12 +41,7 @@ THEN I find that the app passes reducers to a Redux store instead of using the C
 WHEN I review the way the app extracts state data from the store<br />
 THEN I find that the app uses Redux instead of the Context API<br />
 WHEN I review the way the app dispatches actions<br />
-THEN I find that the app uses Redux instead of the Context API<br />
-
-
-## Usage
-
-This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history. 
+THEN I find that the app uses Redux instead of the Context API<br /> 
 
 ## License
 
